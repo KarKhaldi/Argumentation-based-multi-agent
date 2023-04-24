@@ -47,7 +47,7 @@ Argumentation : La discussion se déroule de la manière suivante :
 
 ## Analyses et Résultats
 
-###Possible fin 
+### Possible fin 
 
 Ainsi pour cette simulation, il existe plusieurs fin possible :
 * Soit les 2 agents se mettent d’accord sur un thème et ils pourront donc faire leur projet de SMA
